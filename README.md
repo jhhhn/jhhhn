@@ -1,22 +1,12 @@
 ### Hi there 👋
 I'm John Allen de Chavez, I'm a MERN stack developer
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
 - 🌱 I’m currently learning best practices and security
 - 🤔 I’m looking for help with security
 - 💬 Ask me about MERN stack
 - 📫 How to reach me: johnllendechavez23@gmail.com
 - ⚡ Fun fact: Did you know? First computer programmer was a woman. That's why the language of computers is difficult to understand
 -->
-
-### Connect with me:
-
-[<img align="left" alt="jhhhn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jhhhn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="jhhhn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
