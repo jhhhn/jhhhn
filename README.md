@@ -5,7 +5,7 @@ I'm John Allen de Chavez, I'm a MERN stack developer
 - 🤔 I’m looking for help with UI/UX design
 - 💬 Ask me about MERN stack
 - 📫 How to reach me: johnllendechavez23@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love playing online games
 
 ### Languages and Tools:
 
@@ -28,6 +28,6 @@ I'm John Allen de Chavez, I'm a MERN stack developer
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-[![jhhhn's github stats](https://github-readme-stats.vercel.app/api?username=jhhhn)](https://github.com/jhhhn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhhn&layout=compact)](https://github.com/jhhhn/github-readme-stats)
+[![jhhhn's github stats](https://github-readme-stats.vercel.app/api?username=jhhhn&show_icons=true&theme=radical)](https://github.com/jhhhn/github-readme-stats)
 </details>
