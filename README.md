@@ -2,11 +2,10 @@
 I'm John Allen de Chavez, I'm a MERN stack developer
 
 - 🌱 I’m currently learning best practices and security
-- 🤔 I’m looking for help with security
+- 🤔 I’m looking for help with UI/UX design
 - 💬 Ask me about MERN stack
 - 📫 How to reach me: johnllendechavez23@gmail.com
-- ⚡ Fun fact: Did you know? First computer programmer was a woman. That's why the language of computers is difficult to understand
--->
+- ⚡ Fun fact: 
 
 ### Languages and Tools:
 
@@ -30,6 +29,5 @@ I'm John Allen de Chavez, I'm a MERN stack developer
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="jhhhn's GitHub Stats" src="https://github-readme-stats.jhhhn.vercel.app/api?username=jhhhn&show_icons=true&hide_border=true" />
-
+[![jhhhn's github stats](https://github-readme-stats.vercel.app/api?username=jhhhn)](https://github.com/jhhhn/github-readme-stats)
 </details>
