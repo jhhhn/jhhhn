@@ -26,8 +26,10 @@ I'm John Allen de Chavez, I'm a MERN stack developer
 <br />
 <br />
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhhn&layout=compact)](https://github.com/jhhhn/github-readme-stats)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhhn&layout=compact)](https://github.com/jhhhn/github-readme-stats)
 [![jhhhn's github stats](https://github-readme-stats.vercel.app/api?username=jhhhn&show_icons=true&theme=radical)](https://github.com/jhhhn/github-readme-stats)
-</details>
+ </details>
