@@ -1,11 +1,7 @@
-### Hi there 👋
+### Hi, I am John Allen 👋
 I'm John Allen de Chavez, I'm a MERN stack developer
 
-- 🌱 I’m currently learning best practices and security
-- 🤔 I’m looking for help with UI/UX design
-- 💬 Ask me about MERN stack
-- 📫 How to reach me: johnllendechavez23@gmail.com
-- ⚡ Fun fact: I love playing online games
+I am a full-stack javaScript developer, I am also currently working as a Software Engineer at [Eplayment Corp](https://www.eplayment.com). and [MultiSys Technologies Corp](https://www.multisyscorp.com).
 
 ### Languages and Tools:
 
@@ -23,7 +19,3 @@ I'm John Allen de Chavez, I'm a MERN stack developer
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-<br />
-<br />
-
-![jhhhn's github stats](https://github-readme-stats.vercel.app/api?username=jhhhn&show_icons=true&theme=radical)
